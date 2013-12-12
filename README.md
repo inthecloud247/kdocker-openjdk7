@@ -1,4 +1,4 @@
-KDocker-jdk7-oracle
+kdocker-jdk7-oracle
 ===================
 
 oracle jdk7 in docker
